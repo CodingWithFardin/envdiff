@@ -8,8 +8,7 @@ python envdiff.py .env.old .env.new
 
 ## layout
 
-- `envdiff.py`
-- `tests/test_envdiff.py`  — tests
+- `tests/test_envdiff.py` - tests for the module next to it
 
 ## use
 
